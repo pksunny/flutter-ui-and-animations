@@ -24,8 +24,7 @@ void main() async {
   });
 
   final buffer = StringBuffer();
-  buffer.writeln('# 🚀 Flutter Animation Collection\n');
-  buffer.writeln('## 📁 Animations\n');
+  buffer.writeln('# 🚀 Flutter UI and Animation Collection\n');
 
   for (var i = 0; i < folders.length; i++) {
     final name = folders[i];

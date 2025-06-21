@@ -1,6 +1,4 @@
-# 🚀 Flutter Animation Collection
-
-## 📁 Animations
+# 🚀 Flutter UI and Animation Collection
 
 1. [1-subscription](lib/screens/1-subscription/)
 2. [2-PAF](lib/screens/2-PAF/)
