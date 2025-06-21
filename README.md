@@ -1,5 +1,13 @@
 # 🚀 Flutter UI and Animation Collection
 
+Welcome to the **Flutter Animation Showcase** — a curated collection of high-quality Flutter UI animations built by **Muhammad Hassan Hafeez**.
+
+This repository features a variety of animations, UI challenges, and performance optimization techniques to help you master Flutter development.
+
+---
+
+## 📁 Animation Index
+
 1. [1-subscription](lib/screens/1-subscription/)
 2. [2-PAF](lib/screens/2-PAF/)
 3. [3-six_nill](lib/screens/3-six_nill/)
@@ -19,3 +27,41 @@
 17. [17-liquid-glass](lib/screens/17-liquid-glass/)
 18. [18-flip-card](lib/screens/18-flip-card/)
 19. [19-page-flip](lib/screens/19-page-flip/)
+
+---
+
+## 👨‍💻 About Me
+
+I’m **Muhammad Hassan Hafeez**, a Flutter developer passionate about building elegant and efficient mobile UI experiences.
+
+I create bite-sized animation tutorials, UI challenges, and performance optimization guides — all focused on Flutter.
+
+
+## 📬 Contact & Socials
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | sunnypk0312@gmail.com |
+| 📞 Mobile | +92 312 1529141 |
+| 💬 WhatsApp | [Message Me](https://wa.me/+923121529141) |
+| 📺 YouTube | [@muhammadhassanhafeez](https://youtube.com/@muhammadhassanhafeez?si=PqclYNV0IegFOJbW) |
+| 📸 Instagram | [@muhammad_hassanhafeez.dev](https://www.instagram.com/muhammad_hassanhafeez.dev/) |
+| 🎵 TikTok | [@muhammadhassanhafeez.dev](https://www.tiktok.com/@muhammadhassanhafeez.dev)
+| 🧑‍🎨 Portfolio | [Behance](https://www.behance.net/muhammadhassanhafeez) |
+| 💼 LinkedIn | [LinkedIn Profile](https://www.linkedin.com/in/muhammad-hassan-hafeez/) |
+| 🐙 GitHub | [@pksunny](https://github.com/pksunny) |
+| 💼 Upwork | [Freelancer Profile](https://www.upwork.com/freelancers/~0102bc13bd382f7504?mp_source=share) |
+| 🌐 Freelancer.com | [@PkSunny0](https://www.freelancer.com/u/PkSunny0) |
+
+---
+
+## 🤝 Let's Connect
+
+If you find this repository helpful or inspiring:
+
+- ⭐ Star this repo
+- 📥 Fork it for your use
+- 🧠 Contribute ideas
+
+> ✨ *“Bringing code to life — one Flutter animation at a time.”*
+
