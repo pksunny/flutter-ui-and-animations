@@ -72,12 +72,12 @@ final List<Story> dummyStories = [
 ];
 
 // Main Stories Home Page
-class StoriesHomePage extends StatefulWidget {
+class PageFlipAnimationScreen extends StatefulWidget {
   @override
-  _StoriesHomePageState createState() => _StoriesHomePageState();
+  _PageFlipAnimationScreenState createState() => _PageFlipAnimationScreenState();
 }
 
-class _StoriesHomePageState extends State<StoriesHomePage>
+class _PageFlipAnimationScreenState extends State<PageFlipAnimationScreen>
     with TickerProviderStateMixin {
   late AnimationController _backgroundController;
   late AnimationController _cardController;

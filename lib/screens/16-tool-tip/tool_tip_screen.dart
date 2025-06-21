@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-class NeuomorphicSocialScreen extends StatefulWidget {
+class TooltipScreen extends StatefulWidget {
   @override
-  _NeuomorphicSocialScreenState createState() => _NeuomorphicSocialScreenState();
+  _TooltipScreenState createState() => _TooltipScreenState();
 }
 
-class _NeuomorphicSocialScreenState extends State<NeuomorphicSocialScreen>
+class _TooltipScreenState extends State<TooltipScreen>
     with TickerProviderStateMixin {
   late AnimationController _backgroundController;
   late Animation<double> _backgroundAnimation;

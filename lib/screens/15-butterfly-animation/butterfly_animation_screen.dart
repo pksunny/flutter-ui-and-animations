@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'dart:math' as math;
 import 'dart:async';
 
-class ButterflyGarden extends StatefulWidget {
-  const ButterflyGarden({Key? key}) : super(key: key);
+class ButterflyGardenScreen extends StatefulWidget {
+  const ButterflyGardenScreen({Key? key}) : super(key: key);
 
   @override
-  State<ButterflyGarden> createState() => _ButterflyGardenState();
+  State<ButterflyGardenScreen> createState() => _ButterflyGardenScreenState();
 }
 
-class _ButterflyGardenState extends State<ButterflyGarden>
+class _ButterflyGardenScreenState extends State<ButterflyGardenScreen>
     with TickerProviderStateMixin {
   late AnimationController _controller;
   late AnimationController _backgroundController;

@@ -8,6 +8,7 @@ import 'package:futurecore_codex/screens/16-tool-tip/tool_tip_screen.dart';
 import 'package:futurecore_codex/screens/17-liquid-glass/liquid_glass_screen.dart';
 import 'package:futurecore_codex/screens/18-flip-card/flip_card_screen.dart';
 import 'package:futurecore_codex/screens/19-page-flip/page_flip_screen.dart';
+import 'package:futurecore_codex/screens/20-loop-text-animation/loop_text_animation_screen.dart';
 import 'package:futurecore_codex/screens/3-six_nill/six_nill_screen.dart';
 import 'package:futurecore_codex/screens/2-PAF/paf_screen.dart';
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
@@ -37,7 +38,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home:  StoriesHomePage()
+      home:  LoopTextAnimationScreen()
     );
   }
 }

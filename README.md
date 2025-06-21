@@ -6,7 +6,7 @@ This repository features a variety of animations, UI challenges, and performance
 
 ---
 
-## 📁 Animation Index
+## 📁 UI and Animation Index
 
 1. [1-subscription](lib/screens/1-subscription/)
 2. [2-PAF](lib/screens/2-PAF/)
@@ -27,6 +27,7 @@ This repository features a variety of animations, UI challenges, and performance
 17. [17-liquid-glass](lib/screens/17-liquid-glass/)
 18. [18-flip-card](lib/screens/18-flip-card/)
 19. [19-page-flip](lib/screens/19-page-flip/)
+20. [20-loop-text-animation](lib/screens/20-loop-text-animation/)
 
 ---
 
@@ -63,5 +64,5 @@ If you find this repository helpful or inspiring:
 - 📥 Fork it for your use
 - 🧠 Contribute ideas
 
-> ✨ *“Bringing code to life — one Flutter animation at a time.”*
+> ✨ *“Bringing code to life”*
 

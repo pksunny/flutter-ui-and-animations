@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'dart:ui';
 import 'dart:math' as math;
 
-class LiquidGlassLogin extends StatefulWidget {
+class LiquidGlassLoginScreen extends StatefulWidget {
   @override
-  _LiquidGlassLoginState createState() => _LiquidGlassLoginState();
+  _LiquidGlassLoginScreenState createState() => _LiquidGlassLoginScreenState();
 }
 
-class _LiquidGlassLoginState extends State<LiquidGlassLogin>
+class _LiquidGlassLoginScreenState extends State<LiquidGlassLoginScreen>
     with TickerProviderStateMixin {
   late AnimationController _floatingController;
   late AnimationController _pulseController;
