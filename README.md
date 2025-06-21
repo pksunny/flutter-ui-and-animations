@@ -1,0 +1,23 @@
+# 🚀 Flutter Animation Collection
+
+## 📁 Animations
+
+1. [1-subscription](lib/screens/1-subscription/)
+2. [2-PAF](lib/screens/2-PAF/)
+3. [3-six_nill](lib/screens/3-six_nill/)
+4. [4-rabbit_loading_animation](lib/screens/4-rabbit_loading_animation/)
+5. [5-deadline_loading_animation copy](lib/screens/5-deadline_loading_animation copy/)
+6. [6-free_palestine](lib/screens/6-free_palestine/)
+7. [7-3d_album](lib/screens/7-3d_album/)
+8. [8-lamp_on_off](lib/screens/8-lamp_on_off/)
+9. [9-neon_squares](lib/screens/9-neon_squares/)
+10. [10-cyberpunk_neon_ui](lib/screens/10-cyberpunk_neon_ui/)
+11. [11-usage-of-const](lib/screens/11-usage-of-const/)
+12. [11-animated-container](lib/screens/11-animated-container/)
+13. [12-setstate-vs-valuenotifier](lib/screens/12-setstate-vs-valuenotifier/)
+14. [14-future-builder-dark-side](lib/screens/14-future-builder-dark-side/)
+15. [15-butterfly-animation](lib/screens/15-butterfly-animation/)
+16. [16-tool-tip](lib/screens/16-tool-tip/)
+17. [17-liquid-glass](lib/screens/17-liquid-glass/)
+18. [18-flip-card](lib/screens/18-flip-card/)
+19. [19-page-flip](lib/screens/19-page-flip/)
