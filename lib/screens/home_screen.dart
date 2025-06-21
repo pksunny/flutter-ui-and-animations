@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:futurecore_codex/screens/3-six_nill/six_nill_screen.dart';
 import 'dart:math' as math;
-import '1. subscription/subscription_screen.dart';
+import '1-subscription/subscription_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

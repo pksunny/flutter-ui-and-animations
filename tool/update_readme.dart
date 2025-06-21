@@ -35,7 +35,7 @@ void main() async {
   buffer.writeln('---\n');
 
   // 📁 Folder List Section
-  buffer.writeln('## 📁 Animation Index\n');
+  buffer.writeln('## 📁 UI and Animation Index\n');
   for (var i = 0; i < folders.length; i++) {
     final name = folders[i];
     buffer.writeln('${i + 1}. [$name](lib/screens/$name/)');
@@ -73,7 +73,7 @@ void main() async {
   buffer.writeln('- 📥 Fork it for your use');
   buffer.writeln('- 🧠 Contribute ideas\n');
 
-  buffer.writeln('> ✨ *“Bringing code to life — one Flutter animation at a time.”*\n');
+  buffer.writeln('> ✨ *“Bringing code to life”*\n');
 
   await readme.writeAsString(buffer.toString());
   print('✅ README.md updated with all contact links and animations!');
