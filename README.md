@@ -8,8 +8,8 @@ This repository features a variety of animations, UI challenges, and performance
 
 ## 📁 UI and Animation Index
 
-1. [1-subscription](lib/screens/1-subscription/)
-2. [2-PAF](lib/screens/2-PAF/)
+1. [1-paf](lib/screens/1-paf/)
+2. [2-subscription](lib/screens/2-subscription/)
 3. [3-six_nill](lib/screens/3-six_nill/)
 4. [4-rabbit_loading_animation](lib/screens/4-rabbit_loading_animation/)
 5. [5-deadline_loading_animation copy](lib/screens/5-deadline_loading_animation copy/)
@@ -28,6 +28,8 @@ This repository features a variety of animations, UI challenges, and performance
 18. [18-flip-card](lib/screens/18-flip-card/)
 19. [19-page-flip](lib/screens/19-page-flip/)
 20. [20-loop-text-animation](lib/screens/20-loop-text-animation/)
+21. [21-origami-fold-ui](lib/screens/21-origami-fold-ui/)
+22. [22-ink-drop-navigation](lib/screens/22-ink-drop-navigation/)
 
 ---
 
