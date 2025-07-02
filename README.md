@@ -32,6 +32,7 @@ This repository features a variety of animations, UI challenges, and performance
 22. [21-origami-fold-ui](lib/screens/21-origami-fold-ui/)
 23. [22-ink-drop-navigation](lib/screens/22-ink-drop-navigation/)
 24. [23-wave-hand](lib/screens/23-wave-hand/)
+25. [24-emoji-bounce-wheel](lib/screens/24-emoji-bounce-wheel/)
 
 ---
 

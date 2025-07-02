@@ -12,6 +12,7 @@ import 'package:futurecore_codex/screens/20-loop-text-animation/loop_text_animat
 import 'package:futurecore_codex/screens/21-origami-fold-ui/origami_fold_ui_screen.dart';
 import 'package:futurecore_codex/screens/22-ink-drop-navigation/ink_drop_navigation_screen.dart';
 import 'package:futurecore_codex/screens/23-wave-hand/wave_hand_screen.dart';
+import 'package:futurecore_codex/screens/24-emoji-bounce-wheel/emoji_bounce_wheel_screen.dart';
 import 'package:futurecore_codex/screens/3-six_nill/six_nill_screen.dart';   
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
@@ -40,7 +41,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home:  WaveHandScreen()
+      home:  EmojiBounceWheelScreen()
     );
   }
 }
