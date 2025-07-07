@@ -34,6 +34,7 @@ This repository features a variety of animations, UI challenges, and performance
 24. [24-emoji-bounce-wheel](lib/screens/24-emoji-bounce-wheel/)
 25. [25-slide-to-confirm-action-bar](lib/screens/25-slide-to-confirm-action-bar/)
 26. [26-fluid-progress-bar](lib/screens/26-fluid-progress-bar/)
+27. [27-success-checkmark-explosion](lib/screens/27-success-checkmark-explosion/)
 
 ---
 
