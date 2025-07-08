@@ -35,6 +35,7 @@ This repository features a variety of animations, UI challenges, and performance
 25. [25-slide-to-confirm-action-bar](lib/screens/25-slide-to-confirm-action-bar/)
 26. [26-fluid-progress-bar](lib/screens/26-fluid-progress-bar/)
 27. [27-success-checkmark-explosion](lib/screens/27-success-checkmark-explosion/)
+28. [28-story-style-stepper](lib/screens/28-story-style-stepper/)
 
 ---
 
