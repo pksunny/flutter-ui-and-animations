@@ -16,6 +16,7 @@ void main() async {
       .map((d) => p.basename(d.path))
       .toList();
 
+  // Sort numerically
   folders.sort((a, b) {
     final aNum = int.tryParse(RegExp(r'^\d+').stringMatch(a) ?? '') ?? 0;
     final bNum = int.tryParse(RegExp(r'^\d+').stringMatch(b) ?? '') ?? 0;
@@ -24,7 +25,7 @@ void main() async {
 
   final buffer = StringBuffer();
 
-  // ⚡️ Cyberpunk Intro
+  // Cyberpunk Header
   buffer.writeln('# 🧬✨ Flutter Animation Universe ⚡️\n');
   buffer.writeln(
       '> **A Cyberpunk-Styled Galaxy of Flutter UI & Animations**\n');
@@ -35,23 +36,32 @@ void main() async {
 
   buffer.writeln('---\n');
 
-  // 🌀 Animated Index First
+  // Animated UI Index as a table
   buffer.writeln('## 🌀 Animated UI & Screen Index\n');
+  buffer.writeln('| # | 🔁 Screen Name | 🔗 Path |');
+  buffer.writeln('|---|----------------|--------|');
+
+  // Show latest (last added) on top with animation 🔥
+  if (folders.isNotEmpty) {
+    final latest = folders.removeLast();
+    buffer.writeln('| 🚀 | **🔥 $latest 🔥** | [`lib/screens/$latest/`](lib/screens/$latest/) |');
+  }
+
   for (var i = 0; i < folders.length; i++) {
     final name = folders[i];
-    buffer.writeln('**${i + 1}.** [`$name`](lib/screens/$name/) 🔹');
+    buffer.writeln('| ${i + 1} | $name | [`lib/screens/$name/`](lib/screens/$name/) |');
   }
 
   buffer.writeln('\n---\n');
 
-  // 👤 About
+  // About Section
   buffer.writeln('## 👤 Who Am I?\n');
   buffer.writeln(
       'I’m **Muhammad Hassan Hafeez** — a digital artisan 🔧 who sculpts **next-gen mobile UI** using Flutter + ❤️.\n');
   buffer.writeln(
       'From seamless transitions to pixel-perfect microinteractions, I build things that move minds and move smoothly.\n');
 
-  // 🔗 Social
+  // Contact Section
   buffer.writeln('\n## 🌐 Contact & Cyber Channels\n');
   buffer.writeln('| 🔹 Platform | 🔗 Link |');
   buffer.writeln('|------------|---------|');
@@ -69,7 +79,7 @@ void main() async {
 
   buffer.writeln('---\n');
 
-  // 🤝 Final CTA
+  // Final CTA
   buffer.writeln('## 🤝 Join the Movement\n');
   buffer.writeln('- ⭐ Star this repo to support premium Flutter content');
   buffer.writeln('- 🌀 Fork and remix your own animations');
@@ -78,5 +88,5 @@ void main() async {
   buffer.writeln('> ⚡ *“Code is not just logic, it’s an experience.”*\n');
 
   await readme.writeAsString(buffer.toString());
-  print('✅ README.md cyberpunk edition generated!');
+  print('✅ Cyberpunk README.md generated with animated index table!');
 }
