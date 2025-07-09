@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 32-goeey_menu_expansion 🔥** | [`lib/screens/32-goeey_menu_expansion/`](lib/screens/32-goeey_menu_expansion/) |
+| 🚀 Latest| **🔥 33-fluid-slider 🔥** | [`lib/screens/33-fluid-slider/`](lib/screens/33-fluid-slider/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -42,6 +42,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 29 | 29-liquid-switch-toggle | [`lib/screens/29-liquid-switch-toggle/`](lib/screens/29-liquid-switch-toggle/) |
 | 30 | 30-blobby-button-expansion | [`lib/screens/30-blobby-button-expansion/`](lib/screens/30-blobby-button-expansion/) |
 | 31 | 31-floating-emojis | [`lib/screens/31-floating-emojis/`](lib/screens/31-floating-emojis/) |
+| 32 | 32-goeey_menu_expansion | [`lib/screens/32-goeey_menu_expansion/`](lib/screens/32-goeey_menu_expansion/) |
 
 ---
 
