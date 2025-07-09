@@ -36,6 +36,7 @@ This repository features a variety of animations, UI challenges, and performance
 26. [26-fluid-progress-bar](lib/screens/26-fluid-progress-bar/)
 27. [27-success-checkmark-explosion](lib/screens/27-success-checkmark-explosion/)
 28. [28-story-style-stepper](lib/screens/28-story-style-stepper/)
+29. [29-liquid-switch-toggle](lib/screens/29-liquid-switch-toggle/)
 
 ---
 
