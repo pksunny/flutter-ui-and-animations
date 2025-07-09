@@ -28,8 +28,6 @@ void main() async {
   // Cyberpunk Header
   buffer.writeln('# 🧬✨ Flutter Animation Universe ⚡️\n');
   buffer.writeln(
-      '> **A Cyberpunk-Styled Galaxy of Flutter UI & Animations**\n');
-  buffer.writeln(
       'Welcome to **Flutter Animation Universe** — a 🔮 futuristic, high-performance Flutter showcase crafted by **Muhammad Hassan Hafeez**.\n');
   buffer.writeln(
       'This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth transitions**, and **cyber-cool animations** that push the boundaries of Flutter.\n');
@@ -44,7 +42,7 @@ void main() async {
   // Show latest (last added) on top with animation 🔥
   if (folders.isNotEmpty) {
     final latest = folders.removeLast();
-    buffer.writeln('| 🚀 | **🔥 $latest 🔥** | [`lib/screens/$latest/`](lib/screens/$latest/) |');
+    buffer.writeln('| 🚀 Latest| **🔥 $latest 🔥** | [`lib/screens/$latest/`](lib/screens/$latest/) |');
   }
 
   for (var i = 0; i < folders.length; i++) {
@@ -62,7 +60,7 @@ void main() async {
       'From seamless transitions to pixel-perfect microinteractions, I build things that move minds and move smoothly.\n');
 
   // Contact Section
-  buffer.writeln('\n## 🌐 Contact & Cyber Channels\n');
+  buffer.writeln('\n## 🌐 Contact & Social\n');
   buffer.writeln('| 🔹 Platform | 🔗 Link |');
   buffer.writeln('|------------|---------|');
   buffer.writeln('| 📧 Email | sunnypk0312@gmail.com |');
