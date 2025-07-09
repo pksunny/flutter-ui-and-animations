@@ -18,7 +18,9 @@ import 'package:futurecore_codex/screens/26-fluid-progress-bar/fluid_progress_ba
 import 'package:futurecore_codex/screens/27-success-checkmark-explosion/success_checkmark_explosion_screen.dart';
 import 'package:futurecore_codex/screens/28-story-style-stepper/story_style_stepper_screen.dart';
 import 'package:futurecore_codex/screens/29-liquid-switch-toggle/liquid_switch_toggle_screen.dart';
-import 'package:futurecore_codex/screens/3-six_nill/six_nill_screen.dart';   
+import 'package:futurecore_codex/screens/3-six_nill/six_nill_screen.dart';
+import 'package:futurecore_codex/screens/30-blobby-button-expansion/blobby_button_expansion_screen.dart';
+import 'package:futurecore_codex/screens/31-floating-emojis/floating_emojis_screen.dart';   
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
@@ -46,7 +48,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: LiquidSwitchToggleScreen()
+      home: FloatingEmojisScreen()
     );
   }
 }

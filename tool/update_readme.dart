@@ -16,7 +16,6 @@ void main() async {
       .map((d) => p.basename(d.path))
       .toList();
 
-  // ✅ Sort folders by numeric prefix
   folders.sort((a, b) {
     final aNum = int.tryParse(RegExp(r'^\d+').stringMatch(a) ?? '') ?? 0;
     final bNum = int.tryParse(RegExp(r'^\d+').stringMatch(b) ?? '') ?? 0;
@@ -25,56 +24,59 @@ void main() async {
 
   final buffer = StringBuffer();
 
-  // 🧠 Intro Section
-  buffer.writeln('# 🚀 Flutter UI and Animation Collection\n');
+  // ⚡️ Cyberpunk Intro
+  buffer.writeln('# 🧬✨ Flutter Animation Universe ⚡️\n');
   buffer.writeln(
-      'Welcome to the **Flutter Animation Showcase** — a curated collection of high-quality Flutter UI animations built by **Muhammad Hassan Hafeez**.\n');
+      '> **A Cyberpunk-Styled Galaxy of Flutter UI & Animations**\n');
   buffer.writeln(
-      'This repository features a variety of animations, UI challenges, and performance optimization techniques to help you master Flutter development.\n');
+      'Welcome to **Flutter Animation Universe** — a 🔮 futuristic, high-performance Flutter showcase crafted by **Muhammad Hassan Hafeez**.\n');
+  buffer.writeln(
+      'This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth transitions**, and **cyber-cool animations** that push the boundaries of Flutter.\n');
 
   buffer.writeln('---\n');
 
-  // 📁 Folder List Section
-  buffer.writeln('## 📁 UI and Animation Index\n');
+  // 🌀 Animated Index First
+  buffer.writeln('## 🌀 Animated UI & Screen Index\n');
   for (var i = 0; i < folders.length; i++) {
     final name = folders[i];
-    buffer.writeln('${i + 1}. [$name](lib/screens/$name/)');
+    buffer.writeln('**${i + 1}.** [`$name`](lib/screens/$name/) 🔹');
   }
 
   buffer.writeln('\n---\n');
 
-  // 👨‍💻 About & Social Links
-  buffer.writeln('## 👨‍💻 About Me\n');
+  // 👤 About
+  buffer.writeln('## 👤 Who Am I?\n');
   buffer.writeln(
-      'I’m **Muhammad Hassan Hafeez**, a Flutter developer passionate about building elegant and efficient mobile UI experiences.\n');
+      'I’m **Muhammad Hassan Hafeez** — a digital artisan 🔧 who sculpts **next-gen mobile UI** using Flutter + ❤️.\n');
   buffer.writeln(
-      'I create bite-sized animation tutorials, UI challenges, and performance optimization guides — all focused on Flutter.\n');
+      'From seamless transitions to pixel-perfect microinteractions, I build things that move minds and move smoothly.\n');
 
-  buffer.writeln('\n## 📬 Contact & Socials\n');
-  buffer.writeln('| Platform | Link |');
-  buffer.writeln('|----------|------|');
+  // 🔗 Social
+  buffer.writeln('\n## 🌐 Contact & Cyber Channels\n');
+  buffer.writeln('| 🔹 Platform | 🔗 Link |');
+  buffer.writeln('|------------|---------|');
   buffer.writeln('| 📧 Email | sunnypk0312@gmail.com |');
   buffer.writeln('| 📞 Mobile | +92 312 1529141 |');
   buffer.writeln('| 💬 WhatsApp | [Message Me](https://wa.me/+923121529141) |');
   buffer.writeln('| 📺 YouTube | [@muhammadhassanhafeez](https://youtube.com/@muhammadhassanhafeez?si=PqclYNV0IegFOJbW) |');
   buffer.writeln('| 📸 Instagram | [@muhammad_hassanhafeez.dev](https://www.instagram.com/muhammad_hassanhafeez.dev/) |');
-  buffer.writeln('| 🎵 TikTok | [@muhammadhassanhafeez.dev](https://www.tiktok.com/@muhammadhassanhafeez.dev)');
-  buffer.writeln('| 🧑‍🎨 Portfolio | [Behance](https://www.behance.net/muhammadhassanhafeez) |');
-  buffer.writeln('| 💼 LinkedIn | [LinkedIn Profile](https://www.linkedin.com/in/muhammad-hassan-hafeez/) |');
+  buffer.writeln('| 🎵 TikTok | [@muhammadhassanhafeez.dev](https://www.tiktok.com/@muhammadhassanhafeez.dev) |');
+  buffer.writeln('| 🧑‍🎨 Behance | [Portfolio](https://www.behance.net/muhammadhassanhafeez) |');
+  buffer.writeln('| 💼 LinkedIn | [Connect](https://www.linkedin.com/in/muhammad-hassan-hafeez/) |');
   buffer.writeln('| 🐙 GitHub | [@pksunny](https://github.com/pksunny) |');
-  buffer.writeln('| 💼 Upwork | [Freelancer Profile](https://www.upwork.com/freelancers/~0102bc13bd382f7504?mp_source=share) |');
-  buffer.writeln('| 🌐 Freelancer.com | [@PkSunny0](https://www.freelancer.com/u/PkSunny0) |\n');
+  buffer.writeln('| 💼 Upwork | [Hire Me](https://www.upwork.com/freelancers/~0102bc13bd382f7504?mp_source=share) |');
+  buffer.writeln('| 🌐 Freelancer | [@PkSunny0](https://www.freelancer.com/u/PkSunny0) |\n');
 
   buffer.writeln('---\n');
 
-  buffer.writeln('## 🤝 Let\'s Connect\n');
-  buffer.writeln('If you find this repository helpful or inspiring:\n');
-  buffer.writeln('- ⭐ Star this repo');
-  buffer.writeln('- 📥 Fork it for your use');
-  buffer.writeln('- 🧠 Contribute ideas\n');
+  // 🤝 Final CTA
+  buffer.writeln('## 🤝 Join the Movement\n');
+  buffer.writeln('- ⭐ Star this repo to support premium Flutter content');
+  buffer.writeln('- 🌀 Fork and remix your own animations');
+  buffer.writeln('- 💡 Share ideas, collab, or contribute\n');
 
-  buffer.writeln('> ✨ *“Bringing code to life”*\n');
+  buffer.writeln('> ⚡ *“Code is not just logic, it’s an experience.”*\n');
 
   await readme.writeAsString(buffer.toString());
-  print('✅ README.md updated with all contact links and animations!');
+  print('✅ README.md cyberpunk edition generated!');
 }
