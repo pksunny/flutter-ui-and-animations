@@ -1,7 +1,5 @@
 # 🧬✨ Flutter Animation Universe ⚡️
 
-> **A Cyberpunk-Styled Galaxy of Flutter UI & Animations**
-
 Welcome to **Flutter Animation Universe** — a 🔮 futuristic, high-performance Flutter showcase crafted by **Muhammad Hassan Hafeez**.
 
 This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth transitions**, and **cyber-cool animations** that push the boundaries of Flutter.
@@ -12,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 | **🔥 31-floating-emojis 🔥** | [`lib/screens/31-floating-emojis/`](lib/screens/31-floating-emojis/) |
+| 🚀 Latest| **🔥 31-floating-emojis 🔥** | [`lib/screens/31-floating-emojis/`](lib/screens/31-floating-emojis/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -53,7 +51,7 @@ I’m **Muhammad Hassan Hafeez** — a digital artisan 🔧 who sculpts **next-g
 From seamless transitions to pixel-perfect microinteractions, I build things that move minds and move smoothly.
 
 
-## 🌐 Contact & Cyber Channels
+## 🌐 Contact & Social
 
 | 🔹 Platform | 🔗 Link |
 |------------|---------|
