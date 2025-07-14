@@ -23,7 +23,8 @@ import 'package:futurecore_codex/screens/30-blobby-button-expansion/blobby_butto
 import 'package:futurecore_codex/screens/31-floating-emojis/floating_emojis_screen.dart';
 import 'package:futurecore_codex/screens/32-goeey_menu_expansion/goeey_menu_expansion_screen.dart';
 import 'package:futurecore_codex/screens/33-fluid-slider/fluid_slider_screen.dart';
-import 'package:futurecore_codex/screens/34-liquid-password-reveal/liquid_password_reveal_screen.dart';   
+import 'package:futurecore_codex/screens/34-liquid-password-reveal/liquid_password_reveal_screen.dart';
+import 'package:futurecore_codex/screens/35-floating-add-to-cart/floating-add_to_cart_screen.dart';   
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
@@ -51,7 +52,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: LiquidPasswordRevealScreen(),
+      home: FloatingAddtoCartScreen(),
     );
   }
 }
