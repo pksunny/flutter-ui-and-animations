@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 35-floating-add-to-cart 🔥** | [`lib/screens/35-floating-add-to-cart/`](lib/screens/35-floating-add-to-cart/) |
+| 🚀 Latest| **🔥 36-ink-magnet-login-animation 🔥** | [`lib/screens/36-ink-magnet-login-animation/`](lib/screens/36-ink-magnet-login-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -45,6 +45,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 32 | 32-goeey_menu_expansion | [`lib/screens/32-goeey_menu_expansion/`](lib/screens/32-goeey_menu_expansion/) |
 | 33 | 33-fluid-slider | [`lib/screens/33-fluid-slider/`](lib/screens/33-fluid-slider/) |
 | 34 | 34-liquid-password-reveal | [`lib/screens/34-liquid-password-reveal/`](lib/screens/34-liquid-password-reveal/) |
+| 35 | 35-floating-add-to-cart | [`lib/screens/35-floating-add-to-cart/`](lib/screens/35-floating-add-to-cart/) |
 
 ---
 
