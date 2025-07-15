@@ -25,8 +25,12 @@ import 'package:futurecore_codex/screens/32-goeey_menu_expansion/goeey_menu_expa
 import 'package:futurecore_codex/screens/33-fluid-slider/fluid_slider_screen.dart';
 import 'package:futurecore_codex/screens/34-liquid-password-reveal/liquid_password_reveal_screen.dart';
 import 'package:futurecore_codex/screens/35-floating-add-to-cart/floating-add_to_cart_screen.dart';
-import 'package:futurecore_codex/screens/36-ink-magnet-login-animation/ink_magnet_login_animation_screen.dart';   
+import 'package:futurecore_codex/screens/36-ink-magnet-login-animation/ink_magnet_login_animation_screen.dart';
+import 'package:futurecore_codex/screens/37-pulse-absorb-animation/pulse_absorb_animation_screen.dart';
+import 'package:futurecore_codex/screens/38-breathing-cards/breating_cards_screen.dart';
+import 'package:futurecore_codex/screens/39-finger-trail-liquid-drag/finger_trail_liquid_drag_screen.dart';   
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
+import 'package:futurecore_codex/screens/40-mood-responsive-fluid-ui/mood_responsive_fluid_ui.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
@@ -53,7 +57,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: InkMagnetLoginAnimationScreen(),
+      home: MoodResponsiveFluidUi(),
     );
   }
 }
