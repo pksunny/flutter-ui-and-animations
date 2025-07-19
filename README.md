@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 40-mood-responsive-fluid-ui 🔥** | [`lib/screens/40-mood-responsive-fluid-ui/`](lib/screens/40-mood-responsive-fluid-ui/) |
+| 🚀 Latest| **🔥 41-quantum-matrix-code-breaker-animation 🔥** | [`lib/screens/41-quantum-matrix-code-breaker-animation/`](lib/screens/41-quantum-matrix-code-breaker-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -21,8 +21,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 8 | 8-lamp_on_off | [`lib/screens/8-lamp_on_off/`](lib/screens/8-lamp_on_off/) |
 | 9 | 9-neon_squares | [`lib/screens/9-neon_squares/`](lib/screens/9-neon_squares/) |
 | 10 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
-| 11 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
-| 12 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
+| 11 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
+| 12 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
 | 13 | 12-setstate-vs-valuenotifier | [`lib/screens/12-setstate-vs-valuenotifier/`](lib/screens/12-setstate-vs-valuenotifier/) |
 | 14 | 14-future-builder-dark-side | [`lib/screens/14-future-builder-dark-side/`](lib/screens/14-future-builder-dark-side/) |
 | 15 | 15-butterfly-animation | [`lib/screens/15-butterfly-animation/`](lib/screens/15-butterfly-animation/) |
@@ -50,6 +50,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 37 | 37-pulse-absorb-animation | [`lib/screens/37-pulse-absorb-animation/`](lib/screens/37-pulse-absorb-animation/) |
 | 38 | 38-breathing-cards | [`lib/screens/38-breathing-cards/`](lib/screens/38-breathing-cards/) |
 | 39 | 39-finger-trail-liquid-drag | [`lib/screens/39-finger-trail-liquid-drag/`](lib/screens/39-finger-trail-liquid-drag/) |
+| 40 | 40-mood-responsive-fluid-ui | [`lib/screens/40-mood-responsive-fluid-ui/`](lib/screens/40-mood-responsive-fluid-ui/) |
 
 ---
 

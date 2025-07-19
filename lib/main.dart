@@ -31,6 +31,7 @@ import 'package:futurecore_codex/screens/38-breathing-cards/breating_cards_scree
 import 'package:futurecore_codex/screens/39-finger-trail-liquid-drag/finger_trail_liquid_drag_screen.dart';   
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
 import 'package:futurecore_codex/screens/40-mood-responsive-fluid-ui/mood_responsive_fluid_ui.dart';
+import 'package:futurecore_codex/screens/41-quantum-matrix-code-breaker-animation/quantum_matrix_code_breaker_animation_screen.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
@@ -57,7 +58,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: MoodResponsiveFluidUi(),
+      home: QuantumMatrixCodeBreakerAnimationScreen(),
     );
   }
 }
