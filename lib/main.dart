@@ -32,6 +32,12 @@ import 'package:futurecore_codex/screens/39-finger-trail-liquid-drag/finger_trai
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
 import 'package:futurecore_codex/screens/40-mood-responsive-fluid-ui/mood_responsive_fluid_ui.dart';
 import 'package:futurecore_codex/screens/41-quantum-matrix-code-breaker-animation/quantum_matrix_code_breaker_animation_screen.dart';
+import 'package:futurecore_codex/screens/42-neon-photo-gallery/neon_photo_gallery_screen.dart';
+import 'package:futurecore_codex/screens/43-text-flip-animation/text_flip_animation_screen.dart';
+import 'package:futurecore_codex/screens/44-ripple-heatmap/ripple_heatmap_screen.dart';
+import 'package:futurecore_codex/screens/45-auto-fill-form/auto_fill_form_screen.dart';
+import 'package:futurecore_codex/screens/46-letter-growing-animation/letter_growing_animation_screen.dart';
+import 'package:futurecore_codex/screens/47-rolling-switch-toggle/rolling_switch_toggle_screen.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
@@ -58,7 +64,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: QuantumMatrixCodeBreakerAnimationScreen(),
+      home: RollingSwitchToggleScreen(),
     );
   }
 }

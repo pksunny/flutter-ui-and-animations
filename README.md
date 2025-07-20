@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 41-quantum-matrix-code-breaker-animation 🔥** | [`lib/screens/41-quantum-matrix-code-breaker-animation/`](lib/screens/41-quantum-matrix-code-breaker-animation/) |
+| 🚀 Latest| **🔥 47-rolling-switch-toggle 🔥** | [`lib/screens/47-rolling-switch-toggle/`](lib/screens/47-rolling-switch-toggle/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -51,6 +51,12 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 38 | 38-breathing-cards | [`lib/screens/38-breathing-cards/`](lib/screens/38-breathing-cards/) |
 | 39 | 39-finger-trail-liquid-drag | [`lib/screens/39-finger-trail-liquid-drag/`](lib/screens/39-finger-trail-liquid-drag/) |
 | 40 | 40-mood-responsive-fluid-ui | [`lib/screens/40-mood-responsive-fluid-ui/`](lib/screens/40-mood-responsive-fluid-ui/) |
+| 41 | 41-quantum-matrix-code-breaker-animation | [`lib/screens/41-quantum-matrix-code-breaker-animation/`](lib/screens/41-quantum-matrix-code-breaker-animation/) |
+| 42 | 42-neon-photo-gallery | [`lib/screens/42-neon-photo-gallery/`](lib/screens/42-neon-photo-gallery/) |
+| 43 | 43-text-flip-animation | [`lib/screens/43-text-flip-animation/`](lib/screens/43-text-flip-animation/) |
+| 44 | 44-ripple-heatmap | [`lib/screens/44-ripple-heatmap/`](lib/screens/44-ripple-heatmap/) |
+| 45 | 45-auto-fill-form | [`lib/screens/45-auto-fill-form/`](lib/screens/45-auto-fill-form/) |
+| 46 | 46-letter-growing-animation | [`lib/screens/46-letter-growing-animation/`](lib/screens/46-letter-growing-animation/) |
 
 ---
 
