@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 47-rolling-switch-toggle 🔥** | [`lib/screens/47-rolling-switch-toggle/`](lib/screens/47-rolling-switch-toggle/) |
+| 🚀 Latest| **🔥 50-throw-away 🔥** | [`lib/screens/50-throw-away/`](lib/screens/50-throw-away/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -57,6 +57,9 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 44 | 44-ripple-heatmap | [`lib/screens/44-ripple-heatmap/`](lib/screens/44-ripple-heatmap/) |
 | 45 | 45-auto-fill-form | [`lib/screens/45-auto-fill-form/`](lib/screens/45-auto-fill-form/) |
 | 46 | 46-letter-growing-animation | [`lib/screens/46-letter-growing-animation/`](lib/screens/46-letter-growing-animation/) |
+| 47 | 47-rolling-switch-toggle | [`lib/screens/47-rolling-switch-toggle/`](lib/screens/47-rolling-switch-toggle/) |
+| 48 | 48-shake-delete | [`lib/screens/48-shake-delete/`](lib/screens/48-shake-delete/) |
+| 49 | 49-elevator-style-text-reveal | [`lib/screens/49-elevator-style-text-reveal/`](lib/screens/49-elevator-style-text-reveal/) |
 
 ---
 

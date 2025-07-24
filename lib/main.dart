@@ -38,7 +38,10 @@ import 'package:futurecore_codex/screens/44-ripple-heatmap/ripple_heatmap_screen
 import 'package:futurecore_codex/screens/45-auto-fill-form/auto_fill_form_screen.dart';
 import 'package:futurecore_codex/screens/46-letter-growing-animation/letter_growing_animation_screen.dart';
 import 'package:futurecore_codex/screens/47-rolling-switch-toggle/rolling_switch_toggle_screen.dart';
+import 'package:futurecore_codex/screens/48-shake-delete/shake_delete_screen.dart';
+import 'package:futurecore_codex/screens/49-elevator-style-text-reveal/elevator_style_text_reveal.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
+import 'package:futurecore_codex/screens/50-throw-away/throw_away_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
 import 'package:futurecore_codex/screens/8-lamp_on_off/lamp_on_off_screen.dart';
@@ -64,7 +67,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: RollingSwitchToggleScreen(),
+      home: ThrowAwayScreen(),
     );
   }
 }
