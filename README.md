@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 50-throw-away 🔥** | [`lib/screens/50-throw-away/`](lib/screens/50-throw-away/) |
+| 🚀 Latest| **🔥 54-pin-drop-animation 🔥** | [`lib/screens/54-pin-drop-animation/`](lib/screens/54-pin-drop-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -21,8 +21,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 8 | 8-lamp_on_off | [`lib/screens/8-lamp_on_off/`](lib/screens/8-lamp_on_off/) |
 | 9 | 9-neon_squares | [`lib/screens/9-neon_squares/`](lib/screens/9-neon_squares/) |
 | 10 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
-| 11 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
-| 12 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
+| 11 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
+| 12 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
 | 13 | 12-setstate-vs-valuenotifier | [`lib/screens/12-setstate-vs-valuenotifier/`](lib/screens/12-setstate-vs-valuenotifier/) |
 | 14 | 14-future-builder-dark-side | [`lib/screens/14-future-builder-dark-side/`](lib/screens/14-future-builder-dark-side/) |
 | 15 | 15-butterfly-animation | [`lib/screens/15-butterfly-animation/`](lib/screens/15-butterfly-animation/) |
@@ -60,6 +60,10 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 47 | 47-rolling-switch-toggle | [`lib/screens/47-rolling-switch-toggle/`](lib/screens/47-rolling-switch-toggle/) |
 | 48 | 48-shake-delete | [`lib/screens/48-shake-delete/`](lib/screens/48-shake-delete/) |
 | 49 | 49-elevator-style-text-reveal | [`lib/screens/49-elevator-style-text-reveal/`](lib/screens/49-elevator-style-text-reveal/) |
+| 50 | 50-throw-away | [`lib/screens/50-throw-away/`](lib/screens/50-throw-away/) |
+| 51 | 51-aura-card-generator | [`lib/screens/51-aura-card-generator/`](lib/screens/51-aura-card-generator/) |
+| 52 | 52-emoji-explosion | [`lib/screens/52-emoji-explosion/`](lib/screens/52-emoji-explosion/) |
+| 53 | 53-grid-detail | [`lib/screens/53-grid-detail/`](lib/screens/53-grid-detail/) |
 
 ---
 

@@ -42,6 +42,10 @@ import 'package:futurecore_codex/screens/48-shake-delete/shake_delete_screen.dar
 import 'package:futurecore_codex/screens/49-elevator-style-text-reveal/elevator_style_text_reveal.dart';
 import 'package:futurecore_codex/screens/5-deadline_loading_animation%20copy/deadline_animations_screen.dart';
 import 'package:futurecore_codex/screens/50-throw-away/throw_away_screen.dart';
+import 'package:futurecore_codex/screens/51-aura-card-generator/aura_card_generator_screen.dart';
+import 'package:futurecore_codex/screens/52-emoji-explosion/emoji_explosion_screen.dart';
+import 'package:futurecore_codex/screens/53-grid-detail/grid_detail_screen.dart';
+import 'package:futurecore_codex/screens/54-pin-drop-animation/pin_drop_animation_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
 import 'package:futurecore_codex/screens/8-lamp_on_off/lamp_on_off_screen.dart';
@@ -67,7 +71,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: ThrowAwayScreen(),
+      home: GridDetailScreen(),
     );
   }
 }
