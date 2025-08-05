@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 54-pin-drop-animation 🔥** | [`lib/screens/54-pin-drop-animation/`](lib/screens/54-pin-drop-animation/) |
+| 🚀 Latest| **🔥 61-unlock-animation 🔥** | [`lib/screens/61-unlock-animation/`](lib/screens/61-unlock-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -64,6 +64,13 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 51 | 51-aura-card-generator | [`lib/screens/51-aura-card-generator/`](lib/screens/51-aura-card-generator/) |
 | 52 | 52-emoji-explosion | [`lib/screens/52-emoji-explosion/`](lib/screens/52-emoji-explosion/) |
 | 53 | 53-grid-detail | [`lib/screens/53-grid-detail/`](lib/screens/53-grid-detail/) |
+| 54 | 54-pin-drop-animation | [`lib/screens/54-pin-drop-animation/`](lib/screens/54-pin-drop-animation/) |
+| 55 | 55-ai-chat-bubble-morphing-animation | [`lib/screens/55-ai-chat-bubble-morphing-animation/`](lib/screens/55-ai-chat-bubble-morphing-animation/) |
+| 56 | 56-scroll-animation | [`lib/screens/56-scroll-animation/`](lib/screens/56-scroll-animation/) |
+| 57 | 57-emotional-emoji | [`lib/screens/57-emotional-emoji/`](lib/screens/57-emotional-emoji/) |
+| 58 | 58-card-expansion | [`lib/screens/58-card-expansion/`](lib/screens/58-card-expansion/) |
+| 59 | 59-password-reveal | [`lib/screens/59-password-reveal/`](lib/screens/59-password-reveal/) |
+| 60 | 60-unlock-card-animation | [`lib/screens/60-unlock-card-animation/`](lib/screens/60-unlock-card-animation/) |
 
 ---
 

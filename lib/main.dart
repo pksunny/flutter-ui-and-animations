@@ -46,7 +46,14 @@ import 'package:futurecore_codex/screens/51-aura-card-generator/aura_card_genera
 import 'package:futurecore_codex/screens/52-emoji-explosion/emoji_explosion_screen.dart';
 import 'package:futurecore_codex/screens/53-grid-detail/grid_detail_screen.dart';
 import 'package:futurecore_codex/screens/54-pin-drop-animation/pin_drop_animation_screen.dart';
+import 'package:futurecore_codex/screens/55-ai-chat-bubble-morphing-animation/ai_chat_bubble_morphing_animation_screen.dart';
+import 'package:futurecore_codex/screens/56-scroll-animation/scroll_animation_screen.dart';
+import 'package:futurecore_codex/screens/57-emotional-emoji/emotional_emoji_screen.dart';
+import 'package:futurecore_codex/screens/58-card-expansion/card_expansion_animation_screen.dart';
+import 'package:futurecore_codex/screens/59-password-reveal/password_reveal_animation_screen.dart';
 import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.dart';
+import 'package:futurecore_codex/screens/60-unlock-card-animation/unlock_card_animation_screen.dart';
+import 'package:futurecore_codex/screens/61-unlock-animation/unlock_animation_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
 import 'package:futurecore_codex/screens/8-lamp_on_off/lamp_on_off_screen.dart';
 import 'package:futurecore_codex/screens/9-neon_squares/neon_square_screen.dart';
@@ -71,7 +78,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: GridDetailScreen(),
+      home: UnlockAnimationScreen(),
     );
   }
 }
