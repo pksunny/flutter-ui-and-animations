@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 62-orbiting-avatar-badge 🔥** | [`lib/screens/62-orbiting-avatar-badge/`](lib/screens/62-orbiting-avatar-badge/) |
+| 🚀 Latest| **🔥 67-zipper-list-reveal 🔥** | [`lib/screens/67-zipper-list-reveal/`](lib/screens/67-zipper-list-reveal/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -72,6 +72,11 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 59 | 59-password-reveal | [`lib/screens/59-password-reveal/`](lib/screens/59-password-reveal/) |
 | 60 | 60-unlock-card-animation | [`lib/screens/60-unlock-card-animation/`](lib/screens/60-unlock-card-animation/) |
 | 61 | 61-unlock-animation | [`lib/screens/61-unlock-animation/`](lib/screens/61-unlock-animation/) |
+| 62 | 62-orbiting-avatar-badge | [`lib/screens/62-orbiting-avatar-badge/`](lib/screens/62-orbiting-avatar-badge/) |
+| 63 | 63-bouncing-text-loading | [`lib/screens/63-bouncing-text-loading/`](lib/screens/63-bouncing-text-loading/) |
+| 64 | 64-digital-clock | [`lib/screens/64-digital-clock/`](lib/screens/64-digital-clock/) |
+| 65 | 65-swipe-morph-icon | [`lib/screens/65-swipe-morph-icon/`](lib/screens/65-swipe-morph-icon/) |
+| 66 | 66-diagonal-page-reveal | [`lib/screens/66-diagonal-page-reveal/`](lib/screens/66-diagonal-page-reveal/) |
 
 ---
 

@@ -55,6 +55,11 @@ import 'package:futurecore_codex/screens/6-free_palestine/free_palestine_screen.
 import 'package:futurecore_codex/screens/60-unlock-card-animation/unlock_card_animation_screen.dart';
 import 'package:futurecore_codex/screens/61-unlock-animation/unlock_animation_screen.dart';
 import 'package:futurecore_codex/screens/62-orbiting-avatar-badge/oribiting_avatar_badge_animation_screen.dart';
+import 'package:futurecore_codex/screens/63-bouncing-text-loading/bouncing_text_loading_animation_screen.dart';
+import 'package:futurecore_codex/screens/64-digital-clock/digital_clock_screen.dart';
+import 'package:futurecore_codex/screens/65-swipe-morph-icon/swipe_morph_icon_animation_screen.dart';
+import 'package:futurecore_codex/screens/66-diagonal-page-reveal/diagonal_page_reveal_animation_screen.dart';
+import 'package:futurecore_codex/screens/67-zipper-list-reveal/zipper_list_reveal_animation_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
 import 'package:futurecore_codex/screens/8-lamp_on_off/lamp_on_off_screen.dart';
 import 'package:futurecore_codex/screens/9-neon_squares/neon_square_screen.dart';
@@ -79,7 +84,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: OribitingAvatarBadgeAnimationScreen(),
+      home: ZipperListRevealAnimationScreen(),
     );
   }
 }
