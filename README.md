@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 61-unlock-animation 🔥** | [`lib/screens/61-unlock-animation/`](lib/screens/61-unlock-animation/) |
+| 🚀 Latest| **🔥 62-orbiting-avatar-badge 🔥** | [`lib/screens/62-orbiting-avatar-badge/`](lib/screens/62-orbiting-avatar-badge/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -71,6 +71,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 58 | 58-card-expansion | [`lib/screens/58-card-expansion/`](lib/screens/58-card-expansion/) |
 | 59 | 59-password-reveal | [`lib/screens/59-password-reveal/`](lib/screens/59-password-reveal/) |
 | 60 | 60-unlock-card-animation | [`lib/screens/60-unlock-card-animation/`](lib/screens/60-unlock-card-animation/) |
+| 61 | 61-unlock-animation | [`lib/screens/61-unlock-animation/`](lib/screens/61-unlock-animation/) |
 
 ---
 
