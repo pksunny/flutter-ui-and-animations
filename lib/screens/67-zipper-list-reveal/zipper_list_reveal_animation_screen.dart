@@ -20,8 +20,8 @@ class _ZipperListRevealAnimationScreenState extends State<ZipperListRevealAnimat
   final List<ZipperItem> _items = [
     ZipperItem(
       icon: Icons.rocket_launch,
-      title: "Futuristic Design",
-      subtitle: "Cutting-edge UI patterns",
+      title: "Futuristic Designs",
+      subtitle: "Cutting-edge UI patterns", 
       color: Color(0xFF00D4FF),
     ),
     ZipperItem(
