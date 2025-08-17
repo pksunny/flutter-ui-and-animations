@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 67-zipper-list-reveal 🔥** | [`lib/screens/67-zipper-list-reveal/`](lib/screens/67-zipper-list-reveal/) |
+| 🚀 Latest| **🔥 74-slide-up-text-animation 🔥** | [`lib/screens/74-slide-up-text-animation/`](lib/screens/74-slide-up-text-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -21,8 +21,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 8 | 8-lamp_on_off | [`lib/screens/8-lamp_on_off/`](lib/screens/8-lamp_on_off/) |
 | 9 | 9-neon_squares | [`lib/screens/9-neon_squares/`](lib/screens/9-neon_squares/) |
 | 10 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
-| 11 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
-| 12 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
+| 11 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
+| 12 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
 | 13 | 12-setstate-vs-valuenotifier | [`lib/screens/12-setstate-vs-valuenotifier/`](lib/screens/12-setstate-vs-valuenotifier/) |
 | 14 | 14-future-builder-dark-side | [`lib/screens/14-future-builder-dark-side/`](lib/screens/14-future-builder-dark-side/) |
 | 15 | 15-butterfly-animation | [`lib/screens/15-butterfly-animation/`](lib/screens/15-butterfly-animation/) |
@@ -77,6 +77,13 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 64 | 64-digital-clock | [`lib/screens/64-digital-clock/`](lib/screens/64-digital-clock/) |
 | 65 | 65-swipe-morph-icon | [`lib/screens/65-swipe-morph-icon/`](lib/screens/65-swipe-morph-icon/) |
 | 66 | 66-diagonal-page-reveal | [`lib/screens/66-diagonal-page-reveal/`](lib/screens/66-diagonal-page-reveal/) |
+| 67 | 67-zipper-list-reveal | [`lib/screens/67-zipper-list-reveal/`](lib/screens/67-zipper-list-reveal/) |
+| 68 | 68-animated-scrolling | [`lib/screens/68-animated-scrolling/`](lib/screens/68-animated-scrolling/) |
+| 69 | 69-animated-uplaoding-button | [`lib/screens/69-animated-uplaoding-button/`](lib/screens/69-animated-uplaoding-button/) |
+| 70 | 70-animated-light-dark-theme-switching | [`lib/screens/70-animated-light-dark-theme-switching/`](lib/screens/70-animated-light-dark-theme-switching/) |
+| 71 | 71-animated-text-masking | [`lib/screens/71-animated-text-masking/`](lib/screens/71-animated-text-masking/) |
+| 72 | 72-animated-3d-card-effect | [`lib/screens/72-animated-3d-card-effect/`](lib/screens/72-animated-3d-card-effect/) |
+| 73 | 73-animated-moving-gradient-text | [`lib/screens/73-animated-moving-gradient-text/`](lib/screens/73-animated-moving-gradient-text/) |
 
 ---
 

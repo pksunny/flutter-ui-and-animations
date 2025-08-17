@@ -60,7 +60,14 @@ import 'package:futurecore_codex/screens/64-digital-clock/digital_clock_screen.d
 import 'package:futurecore_codex/screens/65-swipe-morph-icon/swipe_morph_icon_animation_screen.dart';
 import 'package:futurecore_codex/screens/66-diagonal-page-reveal/diagonal_page_reveal_animation_screen.dart';
 import 'package:futurecore_codex/screens/67-zipper-list-reveal/zipper_list_reveal_animation_screen.dart';
+import 'package:futurecore_codex/screens/68-animated-scrolling/animated_scrolling_screen.dart';
+import 'package:futurecore_codex/screens/69-animated-uplaoding-button/animated_uploading_button_screen.dart';
 import 'package:futurecore_codex/screens/7-3d_album/3d_album_screen.dart';
+import 'package:futurecore_codex/screens/70-animated-light-dark-theme-switching/animated_light_dark_theme_switching_screen.dart';
+import 'package:futurecore_codex/screens/71-animated-text-masking/animated_text_masking_screen.dart';
+import 'package:futurecore_codex/screens/72-animated-3d-card-effect/animated_3d_card_effect_screen.dart';
+import 'package:futurecore_codex/screens/73-animated-moving-gradient-text/animated_moving_gradient_text_screen.dart';
+import 'package:futurecore_codex/screens/74-slide-up-text-animation/slide_up_text_animation_screen.dart';
 import 'package:futurecore_codex/screens/8-lamp_on_off/lamp_on_off_screen.dart';
 import 'package:futurecore_codex/screens/9-neon_squares/neon_square_screen.dart';
 import 'screens/home_screen.dart';
@@ -84,7 +91,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: ZipperListRevealAnimationScreen(),
+      home: SlideUpTextAnimationScreen(),
     );
   }
 }
