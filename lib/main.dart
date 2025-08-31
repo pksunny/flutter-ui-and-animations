@@ -28,7 +28,7 @@ import 'package:futurecore_codex/screens/35-floating-add-to-cart/floating-add_to
 import 'package:futurecore_codex/screens/36-ink-magnet-login-animation/ink_magnet_login_animation_screen.dart';
 import 'package:futurecore_codex/screens/37-pulse-absorb-animation/pulse_absorb_animation_screen.dart';
 import 'package:futurecore_codex/screens/38-breathing-cards/breating_cards_screen.dart';
-import 'package:futurecore_codex/screens/39-finger-trail-liquid-drag/finger_trail_liquid_drag_screen.dart';   
+import 'package:futurecore_codex/screens/39-finger-trail-liquid-drag/finger_trail_liquid_drag_screen.dart';
 import 'package:futurecore_codex/screens/4-rabbit_loading_animation/rabbit_animations_screen.dart';
 import 'package:futurecore_codex/screens/40-mood-responsive-fluid-ui/mood_responsive_fluid_ui.dart';
 import 'package:futurecore_codex/screens/41-quantum-matrix-code-breaker-animation/quantum_matrix_code_breaker_animation_screen.dart';
@@ -68,7 +68,20 @@ import 'package:futurecore_codex/screens/71-animated-text-masking/animated_text_
 import 'package:futurecore_codex/screens/72-animated-3d-card-effect/animated_3d_card_effect_screen.dart';
 import 'package:futurecore_codex/screens/73-animated-moving-gradient-text/animated_moving_gradient_text_screen.dart';
 import 'package:futurecore_codex/screens/74-slide-up-text-animation/slide_up_text_animation_screen.dart';
+import 'package:futurecore_codex/screens/75-auto-animated-search-suggestions/auto_animated_search_suggestion_screen.dart';
+import 'package:futurecore_codex/screens/76-glass-morphism-effect-ui/glass_morphism_effect_ui_screen.dart';
+import 'package:futurecore_codex/screens/77-slot-machine-switch/slot_machine_switch_screen.dart';
+import 'package:futurecore_codex/screens/78-smooth-card-expansion/smooth_card_expansion_screen.dart';
+import 'package:futurecore_codex/screens/79-batter-filling-animation/battery_filling_animation_screen.dart';
 import 'package:futurecore_codex/screens/8-lamp_on_off/lamp_on_off_screen.dart';
+import 'package:futurecore_codex/screens/80-glowing-buttons-animation%20copy/glowing_buttons_animation_screen.dart';
+import 'package:futurecore_codex/screens/81-advance-carousel-animation%20c/advance_carousel_animation_screen.dart';
+import 'package:futurecore_codex/screens/82-typing-text-animation/typing_text_animation_screen.dart';
+import 'package:futurecore_codex/screens/83-api-call-animations/api_call_animations_screen.dart';
+import 'package:futurecore_codex/screens/84-animated-neuomorphic-login-ui/animated_neuomorphic_login_screen.dart';
+import 'package:futurecore_codex/screens/85-waiting-time-animation/waiting_time_animation_screen.dart';
+import 'package:futurecore_codex/screens/86-expandable-searchbar-animation/expandable_searchbar_animation_screen.dart';
+import 'package:futurecore_codex/screens/87-image-transition-effect/image_transition_effect_screen.dart';
 import 'package:futurecore_codex/screens/9-neon_squares/neon_square_screen.dart';
 import 'screens/home_screen.dart';
 
@@ -91,7 +104,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: SlideUpTextAnimationScreen(),
+      home: ImageTransitionEffectScreen(),
     );
   }
 }

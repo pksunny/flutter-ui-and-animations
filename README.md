@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 74-slide-up-text-animation 🔥** | [`lib/screens/74-slide-up-text-animation/`](lib/screens/74-slide-up-text-animation/) |
+| 🚀 Latest| **🔥 87-image-transition-effect 🔥** | [`lib/screens/87-image-transition-effect/`](lib/screens/87-image-transition-effect/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -21,8 +21,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 8 | 8-lamp_on_off | [`lib/screens/8-lamp_on_off/`](lib/screens/8-lamp_on_off/) |
 | 9 | 9-neon_squares | [`lib/screens/9-neon_squares/`](lib/screens/9-neon_squares/) |
 | 10 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
-| 11 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
-| 12 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
+| 11 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
+| 12 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
 | 13 | 12-setstate-vs-valuenotifier | [`lib/screens/12-setstate-vs-valuenotifier/`](lib/screens/12-setstate-vs-valuenotifier/) |
 | 14 | 14-future-builder-dark-side | [`lib/screens/14-future-builder-dark-side/`](lib/screens/14-future-builder-dark-side/) |
 | 15 | 15-butterfly-animation | [`lib/screens/15-butterfly-animation/`](lib/screens/15-butterfly-animation/) |
@@ -84,6 +84,20 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 71 | 71-animated-text-masking | [`lib/screens/71-animated-text-masking/`](lib/screens/71-animated-text-masking/) |
 | 72 | 72-animated-3d-card-effect | [`lib/screens/72-animated-3d-card-effect/`](lib/screens/72-animated-3d-card-effect/) |
 | 73 | 73-animated-moving-gradient-text | [`lib/screens/73-animated-moving-gradient-text/`](lib/screens/73-animated-moving-gradient-text/) |
+| 74 | 73-animated-3d-card-effect copy | [`lib/screens/73-animated-3d-card-effect copy/`](lib/screens/73-animated-3d-card-effect copy/) |
+| 75 | 74-slide-up-text-animation | [`lib/screens/74-slide-up-text-animation/`](lib/screens/74-slide-up-text-animation/) |
+| 76 | 75-auto-animated-search-suggestions | [`lib/screens/75-auto-animated-search-suggestions/`](lib/screens/75-auto-animated-search-suggestions/) |
+| 77 | 76-glass-morphism-effect-ui | [`lib/screens/76-glass-morphism-effect-ui/`](lib/screens/76-glass-morphism-effect-ui/) |
+| 78 | 77-slot-machine-switch | [`lib/screens/77-slot-machine-switch/`](lib/screens/77-slot-machine-switch/) |
+| 79 | 78-smooth-card-expansion | [`lib/screens/78-smooth-card-expansion/`](lib/screens/78-smooth-card-expansion/) |
+| 80 | 79-batter-filling-animation | [`lib/screens/79-batter-filling-animation/`](lib/screens/79-batter-filling-animation/) |
+| 81 | 80-glowing-buttons-animation copy | [`lib/screens/80-glowing-buttons-animation copy/`](lib/screens/80-glowing-buttons-animation copy/) |
+| 82 | 81-advance-carousel-animation c | [`lib/screens/81-advance-carousel-animation c/`](lib/screens/81-advance-carousel-animation c/) |
+| 83 | 82-typing-text-animation | [`lib/screens/82-typing-text-animation/`](lib/screens/82-typing-text-animation/) |
+| 84 | 83-api-call-animations | [`lib/screens/83-api-call-animations/`](lib/screens/83-api-call-animations/) |
+| 85 | 84-animated-neuomorphic-login-ui | [`lib/screens/84-animated-neuomorphic-login-ui/`](lib/screens/84-animated-neuomorphic-login-ui/) |
+| 86 | 85-waiting-time-animation | [`lib/screens/85-waiting-time-animation/`](lib/screens/85-waiting-time-animation/) |
+| 87 | 86-expandable-searchbar-animation | [`lib/screens/86-expandable-searchbar-animation/`](lib/screens/86-expandable-searchbar-animation/) |
 
 ---
 
