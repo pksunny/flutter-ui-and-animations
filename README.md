@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 87-image-transition-effect 🔥** | [`lib/screens/87-image-transition-effect/`](lib/screens/87-image-transition-effect/) |
+| 🚀 Latest| **🔥 99-menu-items-animation 🔥** | [`lib/screens/99-menu-items-animation/`](lib/screens/99-menu-items-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -83,21 +83,33 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 70 | 70-animated-light-dark-theme-switching | [`lib/screens/70-animated-light-dark-theme-switching/`](lib/screens/70-animated-light-dark-theme-switching/) |
 | 71 | 71-animated-text-masking | [`lib/screens/71-animated-text-masking/`](lib/screens/71-animated-text-masking/) |
 | 72 | 72-animated-3d-card-effect | [`lib/screens/72-animated-3d-card-effect/`](lib/screens/72-animated-3d-card-effect/) |
-| 73 | 73-animated-moving-gradient-text | [`lib/screens/73-animated-moving-gradient-text/`](lib/screens/73-animated-moving-gradient-text/) |
-| 74 | 73-animated-3d-card-effect copy | [`lib/screens/73-animated-3d-card-effect copy/`](lib/screens/73-animated-3d-card-effect copy/) |
+| 73 | 73-animated-3d-card-effect copy | [`lib/screens/73-animated-3d-card-effect copy/`](lib/screens/73-animated-3d-card-effect copy/) |
+| 74 | 73-animated-moving-gradient-text | [`lib/screens/73-animated-moving-gradient-text/`](lib/screens/73-animated-moving-gradient-text/) |
 | 75 | 74-slide-up-text-animation | [`lib/screens/74-slide-up-text-animation/`](lib/screens/74-slide-up-text-animation/) |
 | 76 | 75-auto-animated-search-suggestions | [`lib/screens/75-auto-animated-search-suggestions/`](lib/screens/75-auto-animated-search-suggestions/) |
 | 77 | 76-glass-morphism-effect-ui | [`lib/screens/76-glass-morphism-effect-ui/`](lib/screens/76-glass-morphism-effect-ui/) |
 | 78 | 77-slot-machine-switch | [`lib/screens/77-slot-machine-switch/`](lib/screens/77-slot-machine-switch/) |
 | 79 | 78-smooth-card-expansion | [`lib/screens/78-smooth-card-expansion/`](lib/screens/78-smooth-card-expansion/) |
 | 80 | 79-batter-filling-animation | [`lib/screens/79-batter-filling-animation/`](lib/screens/79-batter-filling-animation/) |
-| 81 | 80-glowing-buttons-animation copy | [`lib/screens/80-glowing-buttons-animation copy/`](lib/screens/80-glowing-buttons-animation copy/) |
-| 82 | 81-advance-carousel-animation c | [`lib/screens/81-advance-carousel-animation c/`](lib/screens/81-advance-carousel-animation c/) |
+| 81 | 80-glowing-buttons-animation | [`lib/screens/80-glowing-buttons-animation/`](lib/screens/80-glowing-buttons-animation/) |
+| 82 | 81-advance-carousel-animation | [`lib/screens/81-advance-carousel-animation/`](lib/screens/81-advance-carousel-animation/) |
 | 83 | 82-typing-text-animation | [`lib/screens/82-typing-text-animation/`](lib/screens/82-typing-text-animation/) |
 | 84 | 83-api-call-animations | [`lib/screens/83-api-call-animations/`](lib/screens/83-api-call-animations/) |
 | 85 | 84-animated-neuomorphic-login-ui | [`lib/screens/84-animated-neuomorphic-login-ui/`](lib/screens/84-animated-neuomorphic-login-ui/) |
 | 86 | 85-waiting-time-animation | [`lib/screens/85-waiting-time-animation/`](lib/screens/85-waiting-time-animation/) |
 | 87 | 86-expandable-searchbar-animation | [`lib/screens/86-expandable-searchbar-animation/`](lib/screens/86-expandable-searchbar-animation/) |
+| 88 | 87-image-transition-effect | [`lib/screens/87-image-transition-effect/`](lib/screens/87-image-transition-effect/) |
+| 89 | 88-login-signup-transition | [`lib/screens/88-login-signup-transition/`](lib/screens/88-login-signup-transition/) |
+| 90 | 89-3d-floating-icons | [`lib/screens/89-3d-floating-icons/`](lib/screens/89-3d-floating-icons/) |
+| 91 | 90-password-strength-indicator | [`lib/screens/90-password-strength-indicator/`](lib/screens/90-password-strength-indicator/) |
+| 92 | 91-drag-reorder-list | [`lib/screens/91-drag-reorder-list/`](lib/screens/91-drag-reorder-list/) |
+| 93 | 92-glowing-searchbar | [`lib/screens/92-glowing-searchbar/`](lib/screens/92-glowing-searchbar/) |
+| 94 | 93-glowing-profile-image | [`lib/screens/93-glowing-profile-image/`](lib/screens/93-glowing-profile-image/) |
+| 95 | 94-product-slider | [`lib/screens/94-product-slider/`](lib/screens/94-product-slider/) |
+| 96 | 95-typing-effects | [`lib/screens/95-typing-effects/`](lib/screens/95-typing-effects/) |
+| 97 | 96-liquid-glass-effect-ui | [`lib/screens/96-liquid-glass-effect-ui/`](lib/screens/96-liquid-glass-effect-ui/) |
+| 98 | 97-loading_spinners | [`lib/screens/97-loading_spinners/`](lib/screens/97-loading_spinners/) |
+| 99 | 98-neon-glassmorphism-ui | [`lib/screens/98-neon-glassmorphism-ui/`](lib/screens/98-neon-glassmorphism-ui/) |
 
 ---
 
