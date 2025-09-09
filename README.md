@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 99-menu-items-animation 🔥** | [`lib/screens/99-menu-items-animation/`](lib/screens/99-menu-items-animation/) |
+| 🚀 Latest| **🔥 106-pop-up-text-animation 🔥** | [`lib/screens/106-pop-up-text-animation/`](lib/screens/106-pop-up-text-animation/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -21,8 +21,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 8 | 8-lamp_on_off | [`lib/screens/8-lamp_on_off/`](lib/screens/8-lamp_on_off/) |
 | 9 | 9-neon_squares | [`lib/screens/9-neon_squares/`](lib/screens/9-neon_squares/) |
 | 10 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
-| 11 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
-| 12 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
+| 11 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
+| 12 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
 | 13 | 12-setstate-vs-valuenotifier | [`lib/screens/12-setstate-vs-valuenotifier/`](lib/screens/12-setstate-vs-valuenotifier/) |
 | 14 | 14-future-builder-dark-side | [`lib/screens/14-future-builder-dark-side/`](lib/screens/14-future-builder-dark-side/) |
 | 15 | 15-butterfly-animation | [`lib/screens/15-butterfly-animation/`](lib/screens/15-butterfly-animation/) |
@@ -110,6 +110,13 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 97 | 96-liquid-glass-effect-ui | [`lib/screens/96-liquid-glass-effect-ui/`](lib/screens/96-liquid-glass-effect-ui/) |
 | 98 | 97-loading_spinners | [`lib/screens/97-loading_spinners/`](lib/screens/97-loading_spinners/) |
 | 99 | 98-neon-glassmorphism-ui | [`lib/screens/98-neon-glassmorphism-ui/`](lib/screens/98-neon-glassmorphism-ui/) |
+| 100 | 99-menu-items-animation | [`lib/screens/99-menu-items-animation/`](lib/screens/99-menu-items-animation/) |
+| 101 | 100-shake-text-field | [`lib/screens/100-shake-text-field/`](lib/screens/100-shake-text-field/) |
+| 102 | 101-character-limit-progress-bar | [`lib/screens/101-character-limit-progress-bar/`](lib/screens/101-character-limit-progress-bar/) |
+| 103 | 102-animated-check-marks | [`lib/screens/102-animated-check-marks/`](lib/screens/102-animated-check-marks/) |
+| 104 | 103-animated-404-errors | [`lib/screens/103-animated-404-errors/`](lib/screens/103-animated-404-errors/) |
+| 105 | 104-animated-card-slider | [`lib/screens/104-animated-card-slider/`](lib/screens/104-animated-card-slider/) |
+| 106 | 105-stylish-image-filters | [`lib/screens/105-stylish-image-filters/`](lib/screens/105-stylish-image-filters/) |
 
 ---
 
