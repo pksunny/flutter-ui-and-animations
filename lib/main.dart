@@ -1,5 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:futurecore_codex/screens/10-cyberpunk_neon_ui/cyberpunk_neon_ui_screen.dart';
+import 'package:futurecore_codex/screens/100-shake-text-field/shake_text_field_screen.dart';
+import 'package:futurecore_codex/screens/101-character-limit-progress-bar/character_limit_progress_bar_screen.dart';
+import 'package:futurecore_codex/screens/102-animated-check-marks/animated_check_marks_screen.dart';
+import 'package:futurecore_codex/screens/103-animated-404-errors/animated_404_error_screen.dart';
+import 'package:futurecore_codex/screens/104-animated-card-slider/animated_card_slider_screen.dart';
+import 'package:futurecore_codex/screens/105-stylish-image-filters/stylish_image_filters_screen.dart';
+import 'package:futurecore_codex/screens/106-pop-up-text-animation/popup_text_animation_screen.dart';
 import 'package:futurecore_codex/screens/11-usage-of-const/usage_of_const_screen.dart';
 import 'package:futurecore_codex/screens/12-setstate-vs-valuenotifier/setstate_vs_valuenotifierscreen.dart';
 import 'package:futurecore_codex/screens/14-future-builder-dark-side/futurebuilder_darkside_screen.dart.dart';
@@ -116,7 +123,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: MenuItemsAnimationScreen(),
+      home: PopupTextAnimationScreen(),
     );
   }
 }
