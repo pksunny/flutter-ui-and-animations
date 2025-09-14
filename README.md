@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 106-pop-up-text-animation 🔥** | [`lib/screens/106-pop-up-text-animation/`](lib/screens/106-pop-up-text-animation/) |
+| 🚀 Latest| **🔥 112-profile-completion-wheel 🔥** | [`lib/screens/112-profile-completion-wheel/`](lib/screens/112-profile-completion-wheel/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -117,6 +117,12 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 104 | 103-animated-404-errors | [`lib/screens/103-animated-404-errors/`](lib/screens/103-animated-404-errors/) |
 | 105 | 104-animated-card-slider | [`lib/screens/104-animated-card-slider/`](lib/screens/104-animated-card-slider/) |
 | 106 | 105-stylish-image-filters | [`lib/screens/105-stylish-image-filters/`](lib/screens/105-stylish-image-filters/) |
+| 107 | 106-pop-up-text-animation | [`lib/screens/106-pop-up-text-animation/`](lib/screens/106-pop-up-text-animation/) |
+| 108 | 107-amazing-loading-animations | [`lib/screens/107-amazing-loading-animations/`](lib/screens/107-amazing-loading-animations/) |
+| 109 | 108-app-update-dialog-animation | [`lib/screens/108-app-update-dialog-animation/`](lib/screens/108-app-update-dialog-animation/) |
+| 110 | 109-rating-bar-dialog-animation | [`lib/screens/109-rating-bar-dialog-animation/`](lib/screens/109-rating-bar-dialog-animation/) |
+| 111 | 110-achievement-ui | [`lib/screens/110-achievement-ui/`](lib/screens/110-achievement-ui/) |
+| 112 | 111-streak-tracker | [`lib/screens/111-streak-tracker/`](lib/screens/111-streak-tracker/) |
 
 ---
 
