@@ -7,7 +7,13 @@ import 'package:futurecore_codex/screens/103-animated-404-errors/animated_404_er
 import 'package:futurecore_codex/screens/104-animated-card-slider/animated_card_slider_screen.dart';
 import 'package:futurecore_codex/screens/105-stylish-image-filters/stylish_image_filters_screen.dart';
 import 'package:futurecore_codex/screens/106-pop-up-text-animation/popup_text_animation_screen.dart';
+import 'package:futurecore_codex/screens/107-amazing-loading-animations/amazing_loading_animations_screen.dart';
+import 'package:futurecore_codex/screens/108-app-update-dialog-animation/app_update_dialog_animation_screen.dart';
+import 'package:futurecore_codex/screens/109-rating-bar-dialog-animation/rating_bar_dialog_animation_screen.dart';
 import 'package:futurecore_codex/screens/11-usage-of-const/usage_of_const_screen.dart';
+import 'package:futurecore_codex/screens/110-achievement-ui/achievement_ui_screen.dart';
+import 'package:futurecore_codex/screens/111-streak-tracker/streak_tracker_screen.dart';
+import 'package:futurecore_codex/screens/112-profile-completion-wheel/profile_completion_wheel_screen.dart';
 import 'package:futurecore_codex/screens/12-setstate-vs-valuenotifier/setstate_vs_valuenotifierscreen.dart';
 import 'package:futurecore_codex/screens/14-future-builder-dark-side/futurebuilder_darkside_screen.dart.dart';
 import 'package:futurecore_codex/screens/15-butterfly-animation/butterfly_animation_screen.dart';
@@ -123,7 +129,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: PopupTextAnimationScreen(),
+      home: ProfileCompletionWheelScreen()
     );
   }
 }
