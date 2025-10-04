@@ -6,6 +6,12 @@ import 'package:futurecore_codex/screens/120-popcorn-loader/popcorn_loader.dart'
 import 'package:futurecore_codex/screens/121-like-firework/like_firework.dart';
 import 'package:futurecore_codex/screens/122-fingerprint-pulse/fingerprint_pulse.dart';
 import 'package:futurecore_codex/screens/123-electric-shock-progressbar/electric_shock_progressbar.dart';
+import 'package:futurecore_codex/screens/124-font-size-adjuster/font_size_adjuster_screen.dart';
+import 'package:futurecore_codex/screens/125-mini-habit-tracker/mini_habit_tracker_screen.dart';
+import 'package:futurecore_codex/screens/126-focus-timer-shield/focus_timer_shield_screen.dart';
+import 'package:futurecore_codex/screens/127-auto-save-indicator/auto_save_indicator_screen.dart';
+import 'package:futurecore_codex/screens/128-predictive-search-bar/predictive_search_bar_screen.dart';
+import 'package:futurecore_codex/screens/129-unlock-ui/unlock_ui_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,7 +32,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: ElectricShockProgressbar()
+      home: UnlockUiScreen(),
     );
   }
 }
