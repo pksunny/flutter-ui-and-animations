@@ -12,6 +12,16 @@ import 'package:futurecore_codex/screens/126-focus-timer-shield/focus_timer_shie
 import 'package:futurecore_codex/screens/127-auto-save-indicator/auto_save_indicator_screen.dart';
 import 'package:futurecore_codex/screens/128-predictive-search-bar/predictive_search_bar_screen.dart';
 import 'package:futurecore_codex/screens/129-unlock-ui/unlock_ui_screen.dart';
+import 'package:futurecore_codex/screens/130-weather-ui/adaptive_weather_ui_screen.dart';
+import 'package:futurecore_codex/screens/131-empty-list/empty_list.dart';
+import 'package:futurecore_codex/screens/132-validation-field/validation_field.dart';
+import 'package:futurecore_codex/screens/133-scroll-indicator/scroll_indicator.dart';
+import 'package:futurecore_codex/screens/134-copy-animation/copy_animation.dart';
+import 'package:futurecore_codex/screens/134-retry-animation/retry_animation.dart';
+import 'package:futurecore_codex/screens/135-collapse-transition/collapse_transition.dart';
+import 'package:futurecore_codex/screens/136-tab-switch-animatioj/tab_switch_animation.dart';
+import 'package:futurecore_codex/screens/137-step-progress/step_progress.dart';
+import 'package:futurecore_codex/screens/138-notification-animation/notification_animation.dart';
 
 void main() {
   runApp(const MyApp());
@@ -32,7 +42,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: UnlockUiScreen(),
+      home: NotificationAnimation(),
     );
   }
 }
