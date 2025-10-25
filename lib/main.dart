@@ -22,6 +22,15 @@ import 'package:futurecore_codex/screens/135-collapse-transition/collapse_transi
 import 'package:futurecore_codex/screens/136-tab-switch-animatioj/tab_switch_animation.dart';
 import 'package:futurecore_codex/screens/137-step-progress/step_progress.dart';
 import 'package:futurecore_codex/screens/138-notification-animation/notification_animation.dart';
+import 'package:futurecore_codex/screens/139-smart-highlight/smart_highlight.dart';
+import 'package:futurecore_codex/screens/140-reward-badge/reward_badge.dart';
+import 'package:futurecore_codex/screens/141-live-pulse-connection/live_pulse_connection.dart';
+import 'package:futurecore_codex/screens/142-smart-loading-swap/smart_loading_swap.dart';
+import 'package:futurecore_codex/screens/143-reaction-glow/reaction_glow.dart';
+import 'package:futurecore_codex/screens/144-textfield-border-flow-animation/textfield_border_flow_animation.dart';
+import 'package:futurecore_codex/screens/145-morphing/morphing.dart';
+import 'package:futurecore_codex/screens/146-smart-page-loader/smart_page_loader.dart';
+import 'package:futurecore_codex/screens/147-confetti-reward-system/confetti_reward_system.dart';
 
 void main() {
   runApp(const MyApp());
@@ -42,7 +51,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: NotificationAnimation(),
+      home: ConfettiRewardSystem(),
     );
   }
 }
