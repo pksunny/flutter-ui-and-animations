@@ -31,6 +31,16 @@ import 'package:futurecore_codex/screens/144-textfield-border-flow-animation/tex
 import 'package:futurecore_codex/screens/145-morphing/morphing.dart';
 import 'package:futurecore_codex/screens/146-smart-page-loader/smart_page_loader.dart';
 import 'package:futurecore_codex/screens/147-confetti-reward-system/confetti_reward_system.dart';
+import 'package:futurecore_codex/screens/148-lightning-text-reveal/lightning_text_reveal.dart';
+import 'package:futurecore_codex/screens/149-mood-adaptive-loader/mood_adaptive_loader.dart';
+import 'package:futurecore_codex/screens/150-sliding-onboarding/sliding_onboarding.dart';
+import 'package:futurecore_codex/screens/151-splash-animation/splash_animation.dart';
+import 'package:futurecore_codex/screens/152-logo-reveal/logo_reveal.dart';
+import 'package:futurecore_codex/screens/153-floating-notes/floating_notes.dart';
+import 'package:futurecore_codex/screens/154-illustration-style-onboarding/illustration_style_onboarding.dart';
+import 'package:futurecore_codex/screens/155-e-commerce-shopping/e_commerce_shopping.dart';
+import 'package:futurecore_codex/screens/156-product-360-view/product_360_view.dart';
+import 'package:futurecore_codex/screens/157-check-out-flow/check_out_flow.dart.dart';
 
 void main() {
   runApp(const MyApp());
@@ -51,7 +61,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: ConfettiRewardSystem(),
+      home: AnimatedCheckoutFlow()
     );
   }
 }
