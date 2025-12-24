@@ -11,6 +11,14 @@ import 'package:futurecore_codex/screens/168-ai-morphing-ui/ai_morphing_ui.dart'
 import 'package:futurecore_codex/screens/170-floating-e-commerce-world/floating_e_commerce_world.dart';
 import 'package:futurecore_codex/screens/171-neurawear-clothing-store/neurawear_clothing_store.dart';
 import 'package:futurecore_codex/screens/172-asia-cup-2026-live-score/asia_cup_2026_live_score.dart';
+import 'package:futurecore_codex/screens/173-soft-card-tap/soft_card_tap.dart';
+import 'package:futurecore_codex/screens/174-scale-transition/scale_transition.dart';
+import 'package:futurecore_codex/screens/175-boune-on-tap/bounce_on_tap.dart';
+import 'package:futurecore_codex/screens/176-smooth-scroll-animation/smooth_scroll_animation.dart';
+import 'package:futurecore_codex/screens/177-breathing-border-radius/breathing_border_radius.dart';
+import 'package:futurecore_codex/screens/178-page-transition/page_transition.dart';
+import 'package:futurecore_codex/screens/179-list-item-add-animation/list_item_add_animation.dart';
+import 'package:futurecore_codex/screens/180-delete-undo-snackbar/delete_undo_snackbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -31,7 +39,7 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: AsiaCupDashboard(),
+      home: DeleteUndoDemo(),
     );
   }
 }
