@@ -10,7 +10,7 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 
 | # | 🔁 Screen Name | 🔗 Path |
 |---|----------------|--------|
-| 🚀 Latest| **🔥 123-electric-shock-progressbar 🔥** | [`lib/screens/123-electric-shock-progressbar/`](lib/screens/123-electric-shock-progressbar/) |
+| 🚀 Latest| **🔥 180-delete-undo-snackbar 🔥** | [`lib/screens/180-delete-undo-snackbar/`](lib/screens/180-delete-undo-snackbar/) |
 | 1 | 1-paf | [`lib/screens/1-paf/`](lib/screens/1-paf/) |
 | 2 | 2-subscription | [`lib/screens/2-subscription/`](lib/screens/2-subscription/) |
 | 3 | 3-six_nill | [`lib/screens/3-six_nill/`](lib/screens/3-six_nill/) |
@@ -20,8 +20,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 7 | 7-3d_album | [`lib/screens/7-3d_album/`](lib/screens/7-3d_album/) |
 | 8 | 8-lamp_on_off | [`lib/screens/8-lamp_on_off/`](lib/screens/8-lamp_on_off/) |
 | 9 | 9-neon_squares | [`lib/screens/9-neon_squares/`](lib/screens/9-neon_squares/) |
-| 10 | 10-popcorn-loader | [`lib/screens/10-popcorn-loader/`](lib/screens/10-popcorn-loader/) |
-| 11 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
+| 10 | 10-cyberpunk_neon_ui | [`lib/screens/10-cyberpunk_neon_ui/`](lib/screens/10-cyberpunk_neon_ui/) |
+| 11 | 10-popcorn-loader | [`lib/screens/10-popcorn-loader/`](lib/screens/10-popcorn-loader/) |
 | 12 | 11-animated-container | [`lib/screens/11-animated-container/`](lib/screens/11-animated-container/) |
 | 13 | 11-usage-of-const | [`lib/screens/11-usage-of-const/`](lib/screens/11-usage-of-const/) |
 | 14 | 12-setstate-vs-valuenotifier | [`lib/screens/12-setstate-vs-valuenotifier/`](lib/screens/12-setstate-vs-valuenotifier/) |
@@ -84,8 +84,8 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 71 | 70-animated-light-dark-theme-switching | [`lib/screens/70-animated-light-dark-theme-switching/`](lib/screens/70-animated-light-dark-theme-switching/) |
 | 72 | 71-animated-text-masking | [`lib/screens/71-animated-text-masking/`](lib/screens/71-animated-text-masking/) |
 | 73 | 72-animated-3d-card-effect | [`lib/screens/72-animated-3d-card-effect/`](lib/screens/72-animated-3d-card-effect/) |
-| 74 | 73-animated-3d-card-effect copy | [`lib/screens/73-animated-3d-card-effect copy/`](lib/screens/73-animated-3d-card-effect copy/) |
-| 75 | 73-animated-moving-gradient-text | [`lib/screens/73-animated-moving-gradient-text/`](lib/screens/73-animated-moving-gradient-text/) |
+| 74 | 73-animated-moving-gradient-text | [`lib/screens/73-animated-moving-gradient-text/`](lib/screens/73-animated-moving-gradient-text/) |
+| 75 | 73-animated-3d-card-effect copy | [`lib/screens/73-animated-3d-card-effect copy/`](lib/screens/73-animated-3d-card-effect copy/) |
 | 76 | 74-slide-up-text-animation | [`lib/screens/74-slide-up-text-animation/`](lib/screens/74-slide-up-text-animation/) |
 | 77 | 75-auto-animated-search-suggestions | [`lib/screens/75-auto-animated-search-suggestions/`](lib/screens/75-auto-animated-search-suggestions/) |
 | 78 | 76-glass-morphism-effect-ui | [`lib/screens/76-glass-morphism-effect-ui/`](lib/screens/76-glass-morphism-effect-ui/) |
@@ -134,6 +134,63 @@ This repo is a digital playground 🕹️ full of **jaw-dropping UI**, **smooth 
 | 121 | 120-popcorn-loader | [`lib/screens/120-popcorn-loader/`](lib/screens/120-popcorn-loader/) |
 | 122 | 121-like-firework | [`lib/screens/121-like-firework/`](lib/screens/121-like-firework/) |
 | 123 | 122-fingerprint-pulse | [`lib/screens/122-fingerprint-pulse/`](lib/screens/122-fingerprint-pulse/) |
+| 124 | 123-electric-shock-progressbar | [`lib/screens/123-electric-shock-progressbar/`](lib/screens/123-electric-shock-progressbar/) |
+| 125 | 124-font-size-adjuster | [`lib/screens/124-font-size-adjuster/`](lib/screens/124-font-size-adjuster/) |
+| 126 | 125-mini-habit-tracker | [`lib/screens/125-mini-habit-tracker/`](lib/screens/125-mini-habit-tracker/) |
+| 127 | 126-focus-timer-shield | [`lib/screens/126-focus-timer-shield/`](lib/screens/126-focus-timer-shield/) |
+| 128 | 127-auto-save-indicator | [`lib/screens/127-auto-save-indicator/`](lib/screens/127-auto-save-indicator/) |
+| 129 | 128-predictive-search-bar | [`lib/screens/128-predictive-search-bar/`](lib/screens/128-predictive-search-bar/) |
+| 130 | 129-unlock-ui | [`lib/screens/129-unlock-ui/`](lib/screens/129-unlock-ui/) |
+| 131 | 130-weather-ui | [`lib/screens/130-weather-ui/`](lib/screens/130-weather-ui/) |
+| 132 | 131-empty-list | [`lib/screens/131-empty-list/`](lib/screens/131-empty-list/) |
+| 133 | 132-validation-field | [`lib/screens/132-validation-field/`](lib/screens/132-validation-field/) |
+| 134 | 133-scroll-indicator | [`lib/screens/133-scroll-indicator/`](lib/screens/133-scroll-indicator/) |
+| 135 | 134-retry-animation | [`lib/screens/134-retry-animation/`](lib/screens/134-retry-animation/) |
+| 136 | 134-copy-animation | [`lib/screens/134-copy-animation/`](lib/screens/134-copy-animation/) |
+| 137 | 135-collapse-transition | [`lib/screens/135-collapse-transition/`](lib/screens/135-collapse-transition/) |
+| 138 | 136-tab-switch-animatioj | [`lib/screens/136-tab-switch-animatioj/`](lib/screens/136-tab-switch-animatioj/) |
+| 139 | 137-step-progress | [`lib/screens/137-step-progress/`](lib/screens/137-step-progress/) |
+| 140 | 138-notification-animation | [`lib/screens/138-notification-animation/`](lib/screens/138-notification-animation/) |
+| 141 | 139-smart-highlight | [`lib/screens/139-smart-highlight/`](lib/screens/139-smart-highlight/) |
+| 142 | 140-reward-badge | [`lib/screens/140-reward-badge/`](lib/screens/140-reward-badge/) |
+| 143 | 141-live-pulse-connection | [`lib/screens/141-live-pulse-connection/`](lib/screens/141-live-pulse-connection/) |
+| 144 | 142-smart-loading-swap | [`lib/screens/142-smart-loading-swap/`](lib/screens/142-smart-loading-swap/) |
+| 145 | 143-reaction-glow | [`lib/screens/143-reaction-glow/`](lib/screens/143-reaction-glow/) |
+| 146 | 144-textfield-border-flow-animation | [`lib/screens/144-textfield-border-flow-animation/`](lib/screens/144-textfield-border-flow-animation/) |
+| 147 | 145-morphing | [`lib/screens/145-morphing/`](lib/screens/145-morphing/) |
+| 148 | 146-smart-page-loader | [`lib/screens/146-smart-page-loader/`](lib/screens/146-smart-page-loader/) |
+| 149 | 147-confetti-reward-system | [`lib/screens/147-confetti-reward-system/`](lib/screens/147-confetti-reward-system/) |
+| 150 | 148-lightning-text-reveal | [`lib/screens/148-lightning-text-reveal/`](lib/screens/148-lightning-text-reveal/) |
+| 151 | 149-mood-adaptive-loader | [`lib/screens/149-mood-adaptive-loader/`](lib/screens/149-mood-adaptive-loader/) |
+| 152 | 150-sliding-onboarding | [`lib/screens/150-sliding-onboarding/`](lib/screens/150-sliding-onboarding/) |
+| 153 | 151-splash-animation | [`lib/screens/151-splash-animation/`](lib/screens/151-splash-animation/) |
+| 154 | 152-logo-reveal | [`lib/screens/152-logo-reveal/`](lib/screens/152-logo-reveal/) |
+| 155 | 153-floating-notes | [`lib/screens/153-floating-notes/`](lib/screens/153-floating-notes/) |
+| 156 | 154-illustration-style-onboarding | [`lib/screens/154-illustration-style-onboarding/`](lib/screens/154-illustration-style-onboarding/) |
+| 157 | 155-e-commerce-shopping | [`lib/screens/155-e-commerce-shopping/`](lib/screens/155-e-commerce-shopping/) |
+| 158 | 156-product-360-view | [`lib/screens/156-product-360-view/`](lib/screens/156-product-360-view/) |
+| 159 | 157-check-out-flow | [`lib/screens/157-check-out-flow/`](lib/screens/157-check-out-flow/) |
+| 160 | 158-luxury-brand-store-ui | [`lib/screens/158-luxury-brand-store-ui/`](lib/screens/158-luxury-brand-store-ui/) |
+| 161 | 159-grocery-delivery-app-ui | [`lib/screens/159-grocery-delivery-app-ui/`](lib/screens/159-grocery-delivery-app-ui/) |
+| 162 | 160-ai-assistant-dashboard | [`lib/screens/160-ai-assistant-dashboard/`](lib/screens/160-ai-assistant-dashboard/) |
+| 163 | 161-smart-planner-ui | [`lib/screens/161-smart-planner-ui/`](lib/screens/161-smart-planner-ui/) |
+| 164 | 162-minimal-wallet-app-ui | [`lib/screens/162-minimal-wallet-app-ui/`](lib/screens/162-minimal-wallet-app-ui/) |
+| 165 | 163-social-feed-ui | [`lib/screens/163-social-feed-ui/`](lib/screens/163-social-feed-ui/) |
+| 166 | 164-package-tracking-app-ui | [`lib/screens/164-package-tracking-app-ui/`](lib/screens/164-package-tracking-app-ui/) |
+| 167 | 165-travel-app-ui | [`lib/screens/165-travel-app-ui/`](lib/screens/165-travel-app-ui/) |
+| 168 | 166-story-onboarding | [`lib/screens/166-story-onboarding/`](lib/screens/166-story-onboarding/) |
+| 169 | 167-smart-home-dashboard | [`lib/screens/167-smart-home-dashboard/`](lib/screens/167-smart-home-dashboard/) |
+| 170 | 168-ai-morphing-ui | [`lib/screens/168-ai-morphing-ui/`](lib/screens/168-ai-morphing-ui/) |
+| 171 | 170-floating-e-commerce-world | [`lib/screens/170-floating-e-commerce-world/`](lib/screens/170-floating-e-commerce-world/) |
+| 172 | 171-neurawear-clothing-store | [`lib/screens/171-neurawear-clothing-store/`](lib/screens/171-neurawear-clothing-store/) |
+| 173 | 172-asia-cup-2026-live-score | [`lib/screens/172-asia-cup-2026-live-score/`](lib/screens/172-asia-cup-2026-live-score/) |
+| 174 | 173-soft-card-tap | [`lib/screens/173-soft-card-tap/`](lib/screens/173-soft-card-tap/) |
+| 175 | 174-scale-transition | [`lib/screens/174-scale-transition/`](lib/screens/174-scale-transition/) |
+| 176 | 175-boune-on-tap | [`lib/screens/175-boune-on-tap/`](lib/screens/175-boune-on-tap/) |
+| 177 | 176-smooth-scroll-animation | [`lib/screens/176-smooth-scroll-animation/`](lib/screens/176-smooth-scroll-animation/) |
+| 178 | 177-breathing-border-radius | [`lib/screens/177-breathing-border-radius/`](lib/screens/177-breathing-border-radius/) |
+| 179 | 178-page-transition | [`lib/screens/178-page-transition/`](lib/screens/178-page-transition/) |
+| 180 | 179-list-item-add-animation | [`lib/screens/179-list-item-add-animation/`](lib/screens/179-list-item-add-animation/) |
 
 ---
 
